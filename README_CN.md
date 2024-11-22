@@ -1,17 +1,3 @@
----
-license: apache-2.0
-language:
-- zh
-- en
-library_name: transformers
-tags:
-- qihoo360
-- 奇虎360
-- zhinao
-- 360Zhinao
-- pretrain
----
-
 <p align="left">
     中文 ｜ &nbsp <a href="./README.md">English</a></a>&nbsp
 </p>
